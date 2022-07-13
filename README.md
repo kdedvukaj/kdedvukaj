@@ -5,7 +5,10 @@
 - 👀 I’m interested in **Frontend Development**
 - 🌱 I’m currently learning **Javascript and VueJs**
 - 🙌 Always open to collaborate with digital content creators.
+- 🛠 Skills:
+ **Html5 Css3 TailwindCss Bootstrap Javascript NodeJs MongoDb Git Wordpress**
 - 📫 How to reach me via email kikoded60@gmail.com
+
 
 <!---
 kdedvukaj/kdedvukaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
