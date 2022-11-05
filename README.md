@@ -3,7 +3,7 @@
 
 #### Ambitious, creative and sociable person, with strong problem-solving skills. Looking for an opportunity that will allow me to pursue a career as a Web Developer and   learn some new experiences in the field of web programming. 
 - 👀 I’m interested in **Frontend Development**
-- 🌱 I’m currently learning **Javascript and VueJs**
+- 🌱 I’m currently learning **ReactJs and Php**
 - 🙌 Always open to collaborate with digital content creators.
 - 🛠 Skills:
  **Html5 Css3 TailwindCss Bootstrap Javascript NodeJs MongoDb Git Wordpress**
